@@ -1,0 +1,1667 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+
+.container1 {
+	border-top: 3px solid #da680b;
+	padding: 0.5rem 0rem 0.5rem 1.5rem;
+	display: flex;
+	flex-direction: row;
+
+}
+
+.container1 img {
+	width: 180px;
+	height: 40px;
+	float: inline-end;
+}
+
+.container1 .logobutton {
+	padding-left: 2rem;
+	width: 185px;
+	border: none;
+	background: transparent;
+}
+
+.container1 .logobutton:hover {
+	padding-left: 2rem;
+	width: 185px;
+	border: none;
+	background: #d6d9dc;
+
+}
+
+.container1 .topbutton {
+	padding-top: 18px;
+	font-size: 13px;
+	padding-left: inherit;
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	color: #636B74;
+	padding-right: 0rem;
+	line-height: 0px;
+
+	background: transparent;
+
+}
+
+.container1 .topbutton:hover {
+	border-radius: 20px;
+	background: #d6d9dc;
+	line-height: 0px;
+	padding-right: 0rem;
+	padding-top: 18px;
+	padding-left: inherit;
+}
+
+.container1 input {
+	width: 44rem;
+	height: 2.1rem;
+	margin-left: 1rem;
+	border-radius: 8px;
+	background: url("./assets/search.png") no-repeat left 1px center;
+	background-size: 22px 22px;
+	padding-left: inherit;
+	border: 1px solid #D3D3D3;
+	outline: none;
+}
+
+.container1 .righttopbutton1 {
+	width: 3.5rem;
+	height: 2rem;
+	margin-left: 1rem;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	background-color: white;
+	border: 1px solid #1B75D0;
+	border-radius: 6px;
+	color: #1B75D0
+}
+
+.container1 .righttopbutton1:hover {
+	background-color: #92c2f2;
+}
+
+.container1 .righttopbutton2 {
+	width: 3.5rem;
+	height: 2rem;
+	margin-left: 3px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	border-radius: 6px;
+	background-color: #1B75D0;
+	border: none;
+	color: white;
+}
+
+.container1 .righttopbutton2:hover {
+	background-color: #155ca2;
+}
+
+.container2 {
+	display: flex;
+	flex-direction: row;
+	height: auto;
+	width: 100%;
+	margin: 1rem;
+}
+
+.container2a {
+	display: flex;
+	flex-direction: column;
+	width: 11.8%;
+	height: 100%;
+}
+
+.container2a1 {
+	display: flex;
+	flex-direction: column;
+
+
+}
+
+.container2a11 {
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 1rem;
+	padding-left: 9px;
+}
+
+.container2a11 svg {
+	fill: #3b4045;
+}
+
+.container2a11 svg:hover {
+	fill: black;
+}
+
+.container2a11 p {
+	padding-left: 8px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	font-size: 13px;
+	color: #3b4045;
+
+}
+
+.container2a11 p:hover {
+	padding-left: 8px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	font-size: 13px;
+	color: black;
+	cursor: pointer;
+
+}
+
+.container2a2 {
+	display: flex;
+	flex-direction: column;
+	padding-top: 1rem;
+
+}
+
+.container2a12a {
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 12px;
+	padding-left: 9px;
+	border: none;
+	background-color: #d6d9dc;
+	font-weight: bold;
+}
+
+.container2a12a svg {
+	fill: #3b4045;
+}
+
+.container2a12a p {
+	padding-left: 8px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	font-size: 13px;
+	color: #3b4045;
+
+}
+
+.container2a2 .container2a11a {
+	display: flex;
+	flex-direction: row;
+}
+
+.container2a2 .container2a11a p {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	font-size: 12px;
+	color: #0C0D0E;
+	padding-right: 2rem;
+	font-weight: 500;
+	padding-left: 8px;
+	;
+
+}
+
+.container2a2 .container2a11a svg {
+	fill: #3b4045;
+}
+
+.container2a2 .b {
+	padding-top: 15px;
+	padding-left: 12px;
+}
+
+.container2a2 .b svg {
+	fill: #da680b;
+}
+
+.container2a2 .labs p {
+	padding-right: 4.6rem;
+}
+
+.a {
+	padding-top: 15px;
+}
+
+.container2b {
+	display: flex;
+	flex-direction: column;
+	padding-left: 1rem;
+	padding-right: 1.5rem;
+
+}
+
+.container2b .firstcontainer2b {
+	display: flex;
+	justify-content: space-between;
+}
+
+.container2b .firstcontainer2b .container2b1 img {
+	box-shadow: 1px 1px 8px #d6d9dc;
+	border-radius: 12px;
+}
+
+.container2b .firstcontainer2b .container2b2 h2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	font-weight: 400;
+	font-size: 2rem;
+	padding-left: 18px;
+}
+
+.container2b3 button {
+	width: 74.45px;
+	height: 35.03px;
+	background-color: white;
+	border: 1px solid #babfc5;
+	border-radius: 5px;
+}
+
+.container2b3 button:hover {
+	cursor: pointer;
+}
+
+#span {
+	display: -webkit-inline-box;
+}
+
+#span p {
+	padding-top: 4px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	color: #3B4045;
+	font-size: 12px;
+}
+
+.container2b .container2b2 .container2b21 {
+	display: flex;
+	flex-direction: row;
+	padding-left: 1rem;
+	padding-top: 9px;
+}
+
+.container2b .container2b2 .container2b21 svg {
+	fill: #636B74;
+}
+
+.container2b .container2b2 .container2b21 p {
+	padding-left: 6px;
+	padding-right: 8px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	color: #636B74;
+	font-size: small;
+
+}
+
+.container2b .container2b2 .container2b22 {
+	display: flex;
+	padding-left: 1rem;
+	padding-top: 9px;
+}
+
+.container2b .container2b2 .container2b22 .container2b22a {
+	fill: #636B74;
+	padding-right: 4px;
+
+}
+
+.container2b .container2b2 .container2b22 p {
+	padding-left: 6px;
+	padding-right: 6px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+	color: #636B74;
+	font-size: small;
+}
+
+.container2b .secondcontainer2b {
+	display: flex;
+	padding-top: 1rem;
+}
+
+#button1 {
+	float: left;
+	width: 3.5rem;
+	height: 1.7rem;
+	background-color: #da680b;
+	border: none;
+	border-radius: 25px;
+	color: white;
+}
+
+#button2 {
+	float: right;
+	width: 3.8rem;
+	height: 1.7rem;
+	border: none;
+	color: #636B74;
+	background-color: white;
+}
+
+#button2:hover {
+	width: 3.8rem;
+	height: 1.7rem;
+	background: #d6d9dc;
+	border-radius: 25px;
+}
+
+.thirdcontainer2b {
+	display: flex;
+	padding-top: 8px;
+}
+
+.thirdcontainer2b .leftthirdcontainer2b {
+	display: flex;
+	flex-direction: column;
+}
+
+.leftthirdcontainer2b {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #babfc5;
+	border-radius: 10px;
+	width: 240px;
+	height: 200px;
+	padding-left: 8px;
+	padding-top: 1rem;
+}
+
+.stats {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #0c0d0e;
+	font-size: 21px;
+	padding-bottom: 10px;
+}
+
+.leftthirdcontainer2b p {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #0c0d0e;
+	font-size: 21px;
+}
+
+.leftthirdcontainer2b-parent {
+	display: flex;
+	flex-direction: column;
+}
+
+.leftthirdcontainer2b-parent .leftthirdcontainer2b-first-child {
+	display: flex;
+}
+
+.leftthirdcontainer2b-first-child {
+	display: flex;
+	flex-direction: row;
+}
+
+.child1 {
+	padding-right: 32px;
+}
+
+.child2a {
+	padding-left: 22px;
+}
+
+.leftthirdcontainer2b-parent .leftthirdcontainer2b-second-child {
+	display: flex;
+	padding-top: 1rem;
+}
+
+.leftthirdcontainer2b-third-child {
+	display: flex;
+	flex-direction: column;
+	padding-top: 1rem;
+}
+
+.leftthirdcontainer2b-third-child svg {
+	fill: #3b4045;
+}
+
+.leftthirdcontainer2b-third-child p {
+	color: #3b4045;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.leftthirdcontainer2bcolumn {
+	display: flex;
+	flex-direction: column;
+}
+
+.leftthirdcontainer2b1 {
+	padding-top: 1rem;
+	padding-bottom: 10px;
+}
+
+.leftthirdcontainer2b1 p {
+	color: #0c0d0e;
+	font-size: 21px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.leftthirdcontainer2b2 {
+	display: flex;
+	padding-top: 1rem;
+	border: 1px solid #babfc5;
+	border-radius: 10px;
+	width: 240px;
+	padding-left: 8px;
+	height: 80px;
+}
+
+.leftthirdcontainer2b2-inner {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.leftthirdcontainer2b2-inner .google {
+	color: #0c0d0e;
+	font-size: 17px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.leftthirdcontainer2b2-inner #a {
+	color: #0c0d0e;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.leftthirdcontainer2b3 {
+	display: flex;
+	padding-top: 1rem;
+	padding-bottom: 10px;
+}
+
+.leftthirdcontainer2b3 .b {
+	font-size: 21px;
+	color: #0c0d0e;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.leftthirdcontainer2b3 .c {
+	padding-left: 33px;
+	font-size: 13px;
+	color: #636b74;
+	padding-top: 5px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.leftthirdcontainer2b3 span {
+	color: #636b74;
+	font-size: 15px;
+	padding-top: 7px;
+	font-weight: bold;
+}
+
+.leftthirdcontainer2b4 {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #babfc5;
+	border-radius: 10px;
+	width: 240px;
+	padding-left: 8px;
+	padding-top: 0.7rem;
+
+}
+
+.leftthirdcontainer2b4-1 {
+	display: flex;
+	padding-top: 1rem;
+}
+
+.content {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #1b75d0;
+	font-size: 13px;
+}
+
+.value {
+	padding-left: 74px;
+}
+
+.value1 {
+	padding-left: 33px;
+}
+
+.value2 {
+	padding-left: 99px;
+}
+
+.value3 {
+	padding-left: 90px;
+}
+
+.value4 {
+	padding-left: 40px;
+}
+
+.value,
+.value1,
+.value2,
+.value3,
+.value4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 13px;
+	color: #0c0d0e;
+}
+
+.rightthirdcontainer2b1 {
+	display: flex;
+	flex-direction: column;
+	padding-left: 2rem;
+
+}
+
+.about {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-color: #0c0d0e;
+	font-size: 21px;
+	padding-bottom: 10px;
+
+}
+
+.author {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	padding-bottom: 10px;
+	font-color: #3b4045;
+}
+
+.author u {
+	color: #1b75d0;
+	cursor: pointer;
+}
+
+.rightthirdcontainer2b1 .last {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	font-color: #3b4045;
+	padding-bottom: 10px;
+}
+
+.rightthirdcontainer2b1 .middle {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	font-color: #3b4045;
+}
+
+.rightthirdcontainer2b1 .site {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	font-color: #3b4045;
+}
+
+.ul {
+	padding-left: 32px;
+	padding-top: 5px;
+	cursor: pointer;
+}
+
+li {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	font-color: #3b4045;
+	padding-bottom: 8px;
+}
+
+li u {
+	color: #1b75d0;
+}
+
+.email {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	font-color: #3b4045;
+}
+
+.containerbadge {
+	display: flex;
+	padding-top: 2rem;
+	justify-content: space-between;
+	padding-right: 1rem;
+}
+
+.containertags {
+	display: flex;
+	padding-top: 2rem;
+	justify-content: space-between;
+	align-items: center;
+	padding-right: 1rem;
+
+}
+
+.containerbadge .containerbadge-1,
+.containertags .containertags-1 {
+	font-size: 21px;
+	color: #0c0d0e;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.containertags .containertags-2 {
+	font-size: 13px;
+	color: #0c0d0e;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.containerbadge .containerbadge-2,
+.containertags .containertags-2 {
+
+	font-size: 13px;
+	color: #0c0d0e;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.containergold {
+	display: flex;
+
+}
+
+.firstcontainergold,
+.firstcontainersilver,
+.firstcontainerbronze {
+	display: flex;
+	padding-bottom: 10px;
+
+}
+
+.firstcontainergold svg {
+	fill: #d6a100;
+}
+
+.containergold-number,
+.containersilver-number,
+.containerbronze-number {
+	display: flex;
+	flex-direction: column;
+	padding-left: 10px;
+
+}
+
+.containergold-number-1,
+.containersilver-number-1,
+.containerbronze-number-1 {
+	font-size: 21px;
+	color: #0c0d0e;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-weight: 500;
+}
+
+.containergold-number-2,
+.containersilver-number-2,
+.containerbronze-number-2 {
+	font-size: 12px;
+	color: #0c0d0e;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.goldsection,
+.silversection {
+	margin-right: 3rem;
+}
+
+.goldsection,
+.silversection,
+.bronzesection {
+	display: flex;
+	width: 15.5rem;
+
+	flex-direction: column;
+	border: 1px solid #d6d9dc;
+	border-radius: 5px;
+	padding: 1rem;
+	margin-top: 1rem;
+}
+
+.goldmiddle,
+.silvermiddle,
+.bronzemiddle {
+	display: flex;
+	padding-bottom: 10px;
+	justify-content: space-between;
+}
+
+.goldmiddle .goldmiddle-p1,
+.silvermiddle .silvermiddle-p1,
+.bronzemiddle .bronzemiddle-p1 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 11px;
+	font-color: #3b4045;
+}
+
+.span1 {
+	margin-left: 7px;
+}
+
+.span2 {
+	margin-left: 4px;
+}
+
+.goldmiddle .goldmiddle-p2,
+.silvermiddle .silvermiddle-p2,
+.bronzemiddle .bronzemiddle-p2 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 11px;
+	font-color: #3b4045;
+}
+
+.goldmiddle .goldmiddle-p3,
+.silvermiddle .silvermiddle-p3,
+.bronzemiddle .bronzemiddle-p3 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 11px;
+	font-color: #3b4045;
+}
+
+.material-symbols-outlined {
+	font-variation-settings:
+		'FILL' 1,
+		'wght' 400,
+		'GRAD' 0,
+		'opsz' 24
+}
+
+.goldmiddle-b1,
+.silvermiddle-b1,
+.bronzemiddle-b1 {
+	padding: 4px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	background-color: #edf5fd;
+	border: 1px solid #d6d9dc;
+	border-radius: 5px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.goldmiddle-b2,
+.silvermiddle-b2,
+.bronzemiddle-b2 {
+
+	padding: 4px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	background-color: #edf5fd;
+	border: 1px solid #d6d9dc;
+	border-radius: 5px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.goldmiddle-b3,
+.silvermiddle-b3,
+.bronzemiddle-b3 {
+
+	padding: 4px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	background-color: #edf5fd;
+	border: 1px solid #d6d9dc;
+	border-radius: 5px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.goldmiddle .material-symbols-outlined {
+	color: #d6a100;
+	font-size: xx-small;
+}
+
+.silvermiddle .material-symbols-outlined {
+	color: #a9adb1;
+	font-size: xx-small;
+}
+
+.bronzemiddle .material-symbols-outlined {
+	color: #cca37f;
+	font-size: xx-small;
+}
+
+.firstcontainersilver svg {
+	fill: #a9adb1;
+}
+
+.firstcontainerbronze svg {
+	fill: #cca37f;
+}
+
+.container-lang-column {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #d6d9dc;
+	padding-right: 1rem;
+
+}
+
+.containertags {
+	padding-bottom: 10px;
+}
+
+.lang1,
+.lang2,
+.lang3,
+.lang4,
+.lang5,
+.lang6 {
+	display: flex;
+
+}
+
+.lang1,
+.lang2,
+.lang3,
+.lang4,
+.lang5,
+.lang6 {
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #d6d9dc;
+	padding: 1rem;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.lang1 div,
+.lang2 div,
+.lang3 div,
+.lang4 div,
+.lang5 div,
+.lang6 div {
+	display: flex;
+}
+
+.lang1 .lang1-1 {
+	color: #155ca2;
+	background-color: #d6e8fa;
+	font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	width: 17px;
+}
+
+.lang1 .lang1-1:hover {
+	background-color: #92c2f2;
+}
+
+.lang1 .lang1-2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+
+}
+
+.lang1 .lang1-3 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang1 .lang1-4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang1 .lang1-5 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang1 .lang1-6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang1 .lang1-7 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang1 span {
+	color: #d6a100;
+	font-size: xx-small;
+	padding-top: 4px;
+	padding-left: 5px;
+}
+
+.lang2 {
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 0.5rem;
+	padding: 1rem;
+}
+
+.lang2 span {
+	color: #d6a100;
+	font-size: xx-small;
+	padding-top: 4px;
+	padding-left: 5px;
+}
+
+.lang2 .lang2-1 {
+	color: #155ca2;
+	background-color: #d6e8fa;
+	font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	width: 22px;
+}
+
+.lang2 .lang2-1:hover {
+	background-color: #92c2f2;
+}
+
+.lang2 .lang2-2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+
+}
+
+.lang2 .lang2-3 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang2 .lang2-4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang2 .lang2-5 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang2 .lang2-6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang2 .lang2-7 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang3 {
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 0.5rem;
+	padding: 1rem;
+}
+
+.lang3 span {
+	color: #d6a100;
+	font-size: xx-small;
+	padding-top: 4px;
+	padding-left: 5px;
+}
+
+.lang3 .lang3-1 {
+	color: #155ca2;
+	background-color: #d6e8fa;
+	font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	width: 22px;
+}
+
+.lang3 .lang3-1:hover {
+	background-color: #92c2f2;
+}
+
+.lang3 .lang3-2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+
+}
+
+.lang3 .lang3-3 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang3 .lang3-4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang3 .lang3-5 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang3 .lang3-6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang3 .lang3-7 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang4 {
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 0.5rem;
+	padding: 1rem;
+}
+
+.lang4 span {
+	color: #d6a100;
+	font-size: xx-small;
+	padding-top: 4px;
+	padding-left: 5px;
+}
+
+.lang4 .lang4-1 {
+	color: #155ca2;
+	background-color: #d6e8fa;
+	font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	width: 28px;
+}
+
+.lang4 .lang4-1:hover {
+	background-color: #92c2f2;
+}
+
+.lang4 .lang4-2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+
+}
+
+.lang4 .lang4-3 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang4 .lang4-4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang4 .lang4-5 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang4 .lang4-6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang4 .lang4-7 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang5 {
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 0.5rem;
+	padding: 1rem;
+}
+
+.lang5 span {
+	color: #d6a100;
+	font-size: xx-small;
+	padding-top: 4px;
+	padding-left: 5px;
+}
+
+.lang5 .lang5-1 {
+	color: #155ca2;
+	background-color: #d6e8fa;
+	font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	width: 40px;
+}
+
+.lang5 .lang5-1:hover {
+	background-color: #92c2f2;
+}
+
+.lang5 .lang5-2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+
+}
+
+.lang5 .lang5-3 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang5 .lang5-4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang5 .lang5-5 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang5 .lang5-6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang5 .lang5-7 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang6 {
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 0.5rem;
+	padding: 1rem;
+}
+
+.lang6 span {
+	color: #d6a100;
+	font-size: xx-small;
+	padding-top: 4px;
+	padding-left: 5px;
+}
+
+.lang6 .lang6-1:hover {
+	background-color: #92c2f2;
+}
+
+.lang6 .lang6-1 {
+	color: #155ca2;
+	background-color: #d6e8fa;
+	font-size: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	width: 45px;
+}
+
+.lang6 .lang6-2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+
+}
+
+.lang6 .lang6-3 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang6 .lang6-4 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang6 .lang6-5 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.lang6 .lang6-6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 17px;
+	color: #0c0d0e;
+	padding-left: 1rem;
+}
+
+.lang6 .lang6-7 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	padding-left: 2px;
+	padding-top: 2px;
+}
+
+.top {
+	padding-top: 1rem;
+	font-size: 21px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #0c0d0e;
+}
+
+.view {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+	padding-top: 11px;
+}
+
+.view u {
+	color: #155ca2;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.viewdiv {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 7px;
+}
+
+.outer-nav {
+	display: flex;
+	padding-right: 1rem;
+}
+
+.viewdiv .nav {
+	display: flex;
+	border: 1px solid #d6d9dc;
+	height: 2rem;
+	border-radius: 5px;
+}
+
+.viewdiv .nav div {
+	padding-top: 3px;
+	padding-left: 5px;
+	padding-right: 4px;
+	color: #0c0d0e;
+	font-size: 11px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.nava1 {
+	border-right: 1px solid #d6d9dc;
+}
+
+.viewdiv .nav2 {
+	display: flex;
+
+	border: 1px solid #d6d9dc;
+	height: 2rem;
+	border-radius: 5px;
+
+}
+
+.viewdiv .nav2 div {
+	padding-top: 3px;
+	padding-left: 2px;
+	padding-right: 4px;
+	color: #0c0d0e;
+	font-size: 11px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.score {
+	border-right: 1px solid #d6d9dc;
+	background-color: #e3e6e8;
+}
+
+.abc {
+	background-color: #e3e6e8;
+}
+
+.toppostcolumn {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #d6d9dc;
+	border-radius: 5px;
+
+
+}
+
+.toppostrow {
+	display: flex;
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	justify-content: space-between;
+}
+
+.toppostrow .toppostrow1,
+.toppostrow2 {
+	display: flex;
+}
+
+.toppostrow svg {
+	fill: #18864b;
+	margin-right: 10px;
+}
+
+.toppostrow .p1 {
+	background-color: #18864b;
+	padding: 4px;
+	border-radius: 4px;
+	color: white;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.toppostrow .p2 {
+	padding-left: 13px;
+	font-size: 15px;
+	color: #1b75d0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.toppostrow .p3 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+
+
+}
+
+.toppostrow .p3-1 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+
+}
+
+.toppostrow .svg {
+	fill: #a7adb4;
+}
+
+.toppostrow .p4 {
+	background-color: white;
+
+	padding: 2px;
+	border-radius: 4px;
+	color: black;
+	font-size: 13px;
+	border: 1px solid #d6d9dc;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.toppostrow .p5 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.toppostrow .p3-2 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.toppostrow .p3-3 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.toppostrow .p3-4 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.toppostrow .p3-5 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.toppostrow .p3-6 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.toppostrow .p3-7 {
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #636b74;
+	font-size: 13px;
+}
+
+.firstoutermeta {
+	display: flex;
+	padding-bottom: 0.5rem;
+	padding-top: 1rem;
+
+	justify-content: space-between;
+	padding-right: 1rem;
+}
+
+.firstoutermeta .meta {
+	font-size: 21px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #0c0d0e;
+
+}
+
+.firstoutermeta svg {
+	fill: #636b74;
+}
+
+.firstoutermeta .meta1,
+.meta2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 13px;
+	color: #636b74;
+}
+
+.metacolumn {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #d6d9dc;
+	border-radius: 4px;
+
+
+}
+
+.metarow {
+	display: flex;
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-left: 6px;
+}
+
+.metarow img {
+	padding-right: 14px;
+}
+
+.metar1 {
+	border: 1px solid #d6d9dc;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	border-radius: 4px;
+	font-size: 12px;
+	padding: 4px;
+}
+
+.metar2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	color: #1b75d0;
+	padding-left: 14px;
+}
+
+.firstouternetwork {
+	display: flex;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	justify-content: space-between;
+	padding-right: 1rem;
+	text-align: justify;
+}
+
+.network1 {
+	font-size: 21px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	color: #0c0d0e;
+
+}
+
+.network2 {
+	color: #636b74;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+
+}
+
+.networkcol {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #d6d9dc;
+	border-radius: 4px;
+
+}
+
+.networkrow {
+	display: flex;
+	border-bottom: 1px solid #d6d9dc;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-left: 6px;
+}
+
+.networkrow img {
+	padding-right: 14px;
+}
+
+.net1 {
+	border: 1px solid #d6d9dc;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	border-radius: 4px;
+	font-size: 12px;
+	padding: 3px;
+}
+
+.net2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-size: 15px;
+	color: #1b75d0;
+	padding-left: 14px;
+}
+
+.lastdivrow {
+	display: flex;
+	padding: 2rem;
+	background-color: black;
+	COLOR: WHITE;
+	padding-left: 4rem;
+	justify-content: space-evenly;
+}
+
+.lastdivcol {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.lastdivcol a {
+	padding-bottom: 1rem;
+	text-decoration: none;
+	color: #c8ccd0;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+	font-weight: 600;
+}
+
+.lastdivcol p {
+	padding-bottom: 10px;
+	color: #babfc5;
+	font-size: 13px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.rightlastdiv {
+	display: flex;
+	flex-direction: column;
+}
+
+.rightlastdiv .first {
+	display: flex;
+	padding-bottom: 13.5rem;
+}
+
+.rightlastdiv .first p {
+	padding-right: 1rem;
+	color: #babfc5;
+	font-size: 11px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
+
+.rightlastdiv .second {
+	display: flex;
+	flex-direction: column;
+}
+
+.rightlastdiv .second p {
+	color: #babfc5;
+	font-size: 11px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans";
+}
